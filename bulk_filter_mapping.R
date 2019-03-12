@@ -91,7 +91,6 @@ if (!is.null(opt$chr)){
 	}
 
 	lines(win_pos, var_pos, lwd=2.5, col='red')
-	text((20105893+20085604)/2, 1.1, labels='SvSPL9', cex=1.25)
 }
  
 dev.off()
